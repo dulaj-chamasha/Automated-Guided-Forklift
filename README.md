@@ -51,7 +51,13 @@ The system is built on an **Arduino Mega** platform with integrated sensors, mot
 ---
 
 ## 📂 Repository Structure
-├── docs/Final_Report.pdf    # Complete technical documentation
-├── src/                     # Arduino code (coming soon)
-├── images/                  # Project photos (coming soon)
-└── README.md                # This file
+automated-guided-forklift/
+├── docs/
+│   └── Final_Report.pdf     # Complete technical documentation
+├── src/
+│   └── arduino/             # Microcontroller source code
+├── hardware/
+│   ├── cad_files/           # 3D models (.stl format)
+│   └── schematics/          # Circuit diagrams
+└── media/
+    └── images/              # System photographs
