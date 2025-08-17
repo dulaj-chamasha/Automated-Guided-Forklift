@@ -54,4 +54,4 @@ The system is built on an **Arduino Mega** platform with integrated sensors, mot
 ├── docs/Final_Report.pdf    # Complete technical documentation
 ├── src/                     # Arduino code (coming soon)
 ├── images/                  # Project photos (coming soon)
-└── README.md               # This file
+└── README.md                # This file
