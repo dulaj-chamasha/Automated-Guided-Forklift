@@ -4,7 +4,7 @@ A smart forklift robot designed for **autonomous cargo handling**.
 It follows a predefined line, detects obstacles, and performs pick-and-place operations using a servo-driven forklift mechanism.  
 The system is built on an **Arduino Mega** platform with integrated sensors, motor drivers, and custom 3D-printed hardware.
 
----
+
 
 ## 🔧 System Overview
 - **Navigation:** IR sensor array for black line tracking  
@@ -13,7 +13,7 @@ The system is built on an **Arduino Mega** platform with integrated sensors, mot
 - **Control Unit:** Arduino Mega 2560 + L298N Motor Driver  
 - **Power:** 11.1V Li-ion battery pack with BMS  
 
----
+
 
 ## 📐 Hardware Components
 - Arduino Mega 2560  
@@ -25,7 +25,7 @@ The system is built on an **Arduino Mega** platform with integrated sensors, mot
 - Two-wheel chassis + caster  
 - 3D printed forklift arms  
 
----
+
 
 ## ⚙️ Method of Operation
 1. **Line Following:** IR sensors track a 3 cm black line on white surface  
@@ -33,14 +33,14 @@ The system is built on an **Arduino Mega** platform with integrated sensors, mot
 3. **Cargo Handling:** Servo motor lifts and unloads cargo (5×5×5 cm box, 20–40 g)  
 4. **Automation:** Arduino coordinates all sensors and actuators  
 
----
+
 
 ## 📊 Results
 - Stable line following with **3-sensor configuration**  
 - Cargo lifting tested up to **100 g (1N force)**  
 - Reliable obstacle detection within **short-range accuracy**  
 
----
+
 
 ## 🚀 Future Enhancements
 - PID control for smoother line tracking  
@@ -48,7 +48,7 @@ The system is built on an **Arduino Mega** platform with integrated sensors, mot
 - Hybrid electric-hydraulic lifting system  
 - Safety features for load balance and overturn prevention  
 
----
+
 
 ## 📂 Repository Structure
     
