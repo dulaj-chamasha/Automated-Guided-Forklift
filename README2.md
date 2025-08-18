@@ -72,7 +72,6 @@ This AGV demonstrates practical use in:
 
 ## 📂 Repository Structure
 
-
     automated-guided-forklift/
     ├── 📚 docs/
     │   └── Final_Report.pdf     # Complete technical documentation
