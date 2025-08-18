@@ -1,4 +1,4 @@
-# Automated Guided Forklift System
+# Automated Guided Forklift System 🚜
 
 An autonomous mobile robot for warehouse material handling with line-following navigation and cargo lifting capabilities.
 
