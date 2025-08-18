@@ -104,6 +104,13 @@ All Black → Stop
 ✓ Consistent cargo handling across all trials  
 ✓ Stable operation under varying load conditions
 
+## Applications
+
+This AGV system demonstrates practical applications in:
+- Small-scale warehouse automation
+- Educational robotics platforms  
+- Proof-of-concept for industrial material handling
+- Foundation for advanced autonomous vehicle development
 ## Project Structure
 
 ```
@@ -119,34 +126,7 @@ automated-guided-forklift/
     └── images/              # System photographs
 ```
 
-## Development Information
-
-**Institution**: Colombo International Nautical and Engineering College  
-**Course**: EE 2314 Electronic Group Project  
-**Completion**: July 2023
-
-**Team Members**:
-- K.P. Dulaj Chamasha Peiris - Project Lead
-- Oshad Anupama - Hardware Design  
-- Praneeth Talpavila - Software Development
-- Maduranga Mathara Arachchi - Testing & Integration
-
-## Current Status
-
-- [x] Hardware design and assembly complete
-- [x] Software development and testing complete  
-- [x] System validation successful
-- [ ] Source code upload in progress
-- [ ] Media documentation in progress
-
-## Applications
-
-This AGV system demonstrates practical applications in:
-- Small-scale warehouse automation
-- Educational robotics platforms  
-- Proof-of-concept for industrial material handling
-- Foundation for advanced autonomous vehicle development
 
 ---
 
-*Project developed for educational purposes demonstrating autonomous navigation and material handling technologies.*
+
