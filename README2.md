@@ -1,7 +1,7 @@
-# Automated Guided Forklift System 🚜
+# Automated Guided Forklift 🚜
 
-A smart autonomous robot designed for **warehouse cargo handling** with line-following navigation and servo-driven lifting capabilities.  
-Built on **Arduino Mega** platform with integrated sensors, motor drivers, and custom 3D-printed hardware for reliable pick-and-place operations.
+A smart autonomous robot designed for warehouse cargo handling with line-following navigation and servo-driven lifting capabilities.  
+Built on Arduino Mega platform with integrated sensors, motor drivers, and custom 3D-printed hardware for reliable pick-and-place operations.
 
 ## 🔧 System Overview
 
@@ -72,19 +72,18 @@ This AGV demonstrates practical use in:
 
 ## 📂 Repository Structure
 
-```
-automated-guided-forklift/
-├── 📚 docs/
-│   └── Final_Report.pdf     # Complete technical documentation
-├── 💻 src/
-│   └── arduino/             # Microcontroller source code
-├── ⚙️ hardware/
-│   ├── cad_files/           # 3D models (.stl format)
-│   └── schematics/          # Circuit diagrams
-└── 📸 media/
-    └── images/              # System photographs
-```
 
----
+    automated-guided-forklift/
+    ├── 📚 docs/
+    │   └── Final_Report.pdf     # Complete technical documentation
+    ├── 💻 src/
+    │   └── arduino/             # Microcontroller source code
+    ├── ⚙️ hardware/
+    │   ├── cad_files/           # 3D models (.stl format)
+    │   └── schematics/          # Circuit diagrams
+    └── 📸 media/
+        └── images/              # System photographs
 
-**Built by:** K.P. Dulaj Chamasha Peiris & Team | **Institution:** Colombo International Nautical and Engineering College
+
+
+
