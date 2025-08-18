@@ -44,7 +44,7 @@ Line Following Logic:
 Object Handling:
 1. Detect → 2. Position → 3. Lift → 4. Transport → 5. Unload
 ```
-````
+
 
 ## 📊 Performance Results
 
@@ -72,17 +72,17 @@ This AGV demonstrates practical use in:
 - Foundation for advanced autonomous vehicle development
 
 ## 📂 Repository Structure
-
-    automated-guided-forklift/
-    ├── docs/
-    │   └── Final_Report.pdf     # Complete technical documentation
-    ├── src/
-    │   └── arduino/             # Microcontroller source code
-    ├── hardware/
-    │   ├── cad_files/           # 3D models (.stl format)
-    │   └── schematics/          # Circuit diagrams
-    └── media/
-        └── images/              # System photographs
+```
+automated-guided-forklift/
+├── docs/
+│   └── Final_Report.pdf     # Complete technical documentation
+├── src/
+│   └── arduino/             # Microcontroller source code
+├── hardware/
+│   ├── cad_files/           # 3D models (.stl format)
+│   └── schematics/          # Circuit diagrams
+└── media/
+    └── images/              # System photographs
 
 
 
