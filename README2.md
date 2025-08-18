@@ -83,7 +83,4 @@ automated-guided-forklift/
 │   └── schematics/          # Circuit diagrams
 └── media/
     └── images/              # System photographs
-
-
-
-
+```
