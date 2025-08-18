@@ -73,14 +73,14 @@ This AGV demonstrates practical use in:
 ## 📂 Repository Structure
 
     automated-guided-forklift/
-    ├── 📚 docs/
+    ├── docs/
     │   └── Final_Report.pdf     # Complete technical documentation
-    ├── 💻 src/
+    ├── src/
     │   └── arduino/             # Microcontroller source code
-    ├── ⚙️ hardware/
+    ├── hardware/
     │   ├── cad_files/           # 3D models (.stl format)
     │   └── schematics/          # Circuit diagrams
-    └── 📸 media/
+    └── media/
         └── images/              # System photographs
 
 
